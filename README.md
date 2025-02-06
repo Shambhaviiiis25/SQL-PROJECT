@@ -1,19 +1,20 @@
-SQL ANALYSIS
-INTRODUCTION
+# SQL ANALYSIS
+
+# INTRODUCTION
 Zomato, a leading restaurant aggregator and food delivery platform, hosts a vast database of restaurants across various cities. However, merely listing restaurants does not guarantee high customer engagement, successful online orders or satisfactory dining experiences. Understanding key business metrics such as online delivery adoption, table booking trends, customer ratings, and voting patterns is crucial for improving platform performance, restaurant recommendations, and overall user experience.
 
-Objective
+# Objective
 This project aims to generate data-driven insights from Zomato’s restaurant dataset by analyzing critical factors affecting restaurant performance, consumer engagement and service adoption. Specifically :
 
 IF METROPOLITAN CITIES ARE PERFORMING BETTER THAN THE TIER 2 AND TIER 3 CITIES?
 
-What are the factors that are contributing to Metropolitan cities success ACROSS CITIES?
+**What are the factors that are contributing to Metropolitan cities success ACROSS CITIES?**
 
-DOES HIGHER RATING = MORE VOTES ?
+**DOES HIGHER RATING = MORE VOTES ?**
 
-Compare the total number of restaurants in each category → Are there just more poor-rated restaurants, leading to higher vote counts?
+**Compare the total number of restaurants in each category → Are there just more poor-rated restaurants, leading to higher vote counts?**
 
-Which cities and localities exhibit high online delivery adoption?
+**Which cities and localities exhibit high online delivery adoption?**
 
 Are cities with high online delivery usage also high in table bookings?
 
