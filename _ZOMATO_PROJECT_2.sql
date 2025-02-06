@@ -334,7 +334,7 @@ FULL JOIN Table_booking b
 ON a.City = b.City
 ORDER BY PERCENTAGE_booking DESC, PERCENTAGE_delivery desc;
 ---The top 5 cities with the highest percentage of restaurants offering online delivery are also the top cities for table booking.
----RECOMMENDATION: For Cities With High Online + Table Booking Zomato can recommend premium subscription models (e.g., Zomato Gold).
+---RECOMMENDATION: For Cities With High Online + Table Booking Zomato can recommend premium subscription for example ZOMATO GOLD.
 ---RECOMMENDATION: For Cities With High Online + Table Booking Zomato can Push loyalty programs for users who use both services.
 
 
